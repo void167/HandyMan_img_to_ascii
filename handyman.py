@@ -12,7 +12,7 @@ from telegram.ext import (
 )
 
 #cfg
-TOKEN = '8284672545:AAFez5eTgbq2HARmacsEW--buikiAa4NCJ8' #token
+TOKEN = '' #token
 ASCII_CHARS = '@%#*+=-:. '[::-1]  # Dark to light
 MAX_MESSAGE_LENGTH = 4096
 MAX_WIDTH_FOR_MESSAGE = 100
